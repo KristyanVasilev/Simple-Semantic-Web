@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    font-family: sans-serif; 
+}
+
+nav{
+    background-color: #234465;
+    margin: 0;
+    padding: 20px;
+    text-align: center;  
+    font-size: 0.8cm;
+}
+
+nav li {
+    padding: 0 20px;
+    display: inline-block;
+    text-align: center;   
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+footer{
+    background-color: #234465;
+    color: #fff;
+    text-align: center;
+    align-items: flex-end;
+    font-size: 0.8cm;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 1cm;
+    text-align: justify;
+}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+    
